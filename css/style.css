@@ -2,34 +2,35 @@ h1 {
   font-family: Verdana;
   font-weight: normal;
   font-size: 50px;
-  color: White;
+  color: white;
   text-align: center;
 }
 h2 {
   font-family: Verdana;
   font-weight: normal;
   font-size: 42px;
-  color: White;
+  color: white;
   text-align: center;
 }
 h3 {
   font-family: Verdana;
   font-weight: normal;
   font-size: 21px;
-  color: Gray;
-  text-align: center;
-}
-h4 {
-  font-family: Verdana;
-  font-weight: normal;
-  font-size: 16px;
-  color: Aquamarine;
+  color: gray;
   text-align: center;
 }
 h5 {
   font-family: Verdana;
   font-weight: normal;
-  font-size: 18px;
-  color: Gray;
+  font-size: 16px;
+  color: gray;
   text-align: right;
+}
+a {
+  color: aquamarine;
+  font-family: Verdana;
+  font-weight: normal;
+  font-size: 16px;
+  text-align: center;
+  display: block;
 }
